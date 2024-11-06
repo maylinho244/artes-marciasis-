@@ -32,4 +32,6 @@ section{
 p{
       fonte-size: 40px;
 }
-
+img{
+      height: 100px;
+}
